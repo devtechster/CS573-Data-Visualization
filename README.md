@@ -1,7 +1,7 @@
 # CS573-Data-Visualization
 My assignments and exams from the course **CS573: Data Visualization** at WPI.
 
-I took this course in **Spring 2024**.  
+I took this course in **Spring 2024** offered by Prof. Lane Harrison
 The coursework included:
 - 3 Assignments/Mini Projects  
 - 14 Reflections - Reading about different research on Data Visualization and writing 10 sentences on it.  
